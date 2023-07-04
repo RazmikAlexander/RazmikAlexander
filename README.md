@@ -6,6 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/RazmikAlexander/RazmikAlexander/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/RazmikAlexander/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/RazmikAlexander/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/RazmikAlexander/RazmikAlexander/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RazmikAlexander/azure-network-protocols)
 
