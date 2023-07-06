@@ -32,20 +32,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://www.ibm.com/docs/en/STXKQY_BDA_SHR/bl1bda72.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/h2>
 </p>
 <p>
-  <li> 3 It will open Add Roles and Features, wizard. Click Next.</li>
+<li> 3 It will open Add Roles and Features, wizard. Click Next.</li>
 <p>
 
 <p>
 <img src="https://i.imgur.com/YRWnXtl.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
-- 4 Select the server from the server pool and click Next.
+<li>4 Select the server from the server pool and click Next.</li>
 </p>
 <img src="https://i.imgur.com/loqxzX2.jpg" height="80%" width="80%" alt=<>
 <br />
 
 <p>
-- 5 Click the Checkbox to select Active Directory Domain Services.
+<li> 5 Click the Checkbox to select Active Directory Domain Services.</li>
 </p>  
 <img src="https://i.imgur.com/IpcbfPO.jpg" height="80%" width="80%" alt=<>
 
@@ -53,7 +53,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 
 <p>
-- 6 On the popup Window, just click Add Features.
+<li> 6 On the popup Window, just click Add Features.</li>
 </p>
 <img src="https://i.imgur.com/i49BWn8.jpg" height="80%" width="80%" alt=<>
 
@@ -61,82 +61,82 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 
 <p>
-- 7 On the description window of Active Directory Domain Services, click Next.
+<li> 7 On the description window of Active Directory Domain Services, click Next.</li>
 </p>
 <img src="https://i.imgur.com/bJb2T5W.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 8 Click Install on the Confirmation window.
+<li> 8 Click Install on the Confirmation window.</li>
 </p>
 <img src="https://i.imgur.com/6GichZd.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 9 Installation process begins.
+<li> 9 Installation process begins.</li>
 </p>
 <img src="https://i.imgur.com/0bpMsSX.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 10 After installing AD DS Role, you can promote this Server to a Domain Controller.
+<li> 10 After installing AD DS Role, you can promote this Server to a Domain Controller.</li>
 </p>
 <img src="https://i.imgur.com/HlIrrJD.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 11 Select Add a new forest and give the Root domain name, ad.gpfs.net. Click Next.
+<li> 11 Select Add a new forest and give the Root domain name, ad.gpfs.net. Click Next.</li>
 </p>
 <img src="https://i.imgur.com/IJ119YS.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 12 Enter the Directory Services Restore Mode password.
+<li> 12 Enter the Directory Services Restore Mode password.</li>
 </p>
 <img src="https://i.imgur.com/UcseLJ8.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 13 Ignore the warning message.
+<li> 13 Ignore the warning message.</li>
 </p>
 <img src="https://i.imgur.com/duRkaBK.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 14 Use the default NetBIOS domain name and click Next.
+<li> 14 Use the default NetBIOS domain name and click Next.</li>
 </p>
 <img src="https://i.imgur.com/sRBiQKx.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 15 Use the default paths and click Next.
+<li> 15 Use the default paths and click Next.</li>
 </p>
 <img src="https://i.imgur.com/tg0C71m.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 16 Review and click Next if no errors.
+<li> 16 Review and click Next if no errors.</li>
 </p>
 <img src="https://i.imgur.com/F2GYCoU.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 
 <p>
-- 17 Click Install and wait for the installation to finish.
+<li> 17 Click Install and wait for the installation to finish.</li>
 </p>
 <img src="https://i.imgur.com/uvVrjgf.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
-- 18 The Domain Controller is now set up.
+<li> 18 The Domain Controller is now set up.</li>
 </p>
 
 
