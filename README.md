@@ -1,4 +1,4 @@
-<h1>Hi, I'm Razmik, an <a href="https://linkedin.com/in/RazmikAlexander">IT Professional
+<h1>Hi, I'm Razmik, an <a href="https://www.linkedin.com/in/razmik-a-917237280">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
   
