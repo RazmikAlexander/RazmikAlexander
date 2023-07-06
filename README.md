@@ -62,6 +62,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
+<p>
+- 7 On the description window of Active Directory Domain Services, click Next.
+</p>
+<img src="https://i.imgur.com/bJb2T5W.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+
 
 
 
