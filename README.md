@@ -29,7 +29,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - 2 Click Add Roles and Features.
     
 <p>
-<img src="https://i.imgur.com/0YplHRK.jpg" height="80%" width="80%" alt=<>
+<img src="https://i.imgur.com/2yE71SN.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
 <li> 3 It will open Add Roles and Features, wizard. Click Next.</li>
