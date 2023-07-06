@@ -48,7 +48,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 <img src="https://imgur.com/OL2ereO" height="80%" width="80%" alt=<>
-</p>
 - 5 Click the Checkbox to select Active Directory Domain Services.
 <p>
 </p>
