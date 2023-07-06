@@ -54,6 +54,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
+<p>
+- 6 On the popup Window, just click Add Features.
+</p>
+<img src="https://i.imgur.com/i49BWn8.jpg" height="80%" width="80%" alt=<>
+
+</p>
+<p>
 
 
 
