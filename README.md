@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://www.ibm.com/docs/en/STXKQY_BDA_SHR/bl1bda72.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/h2>
 </p>
 <p>
- .3 It will open Add Roles and Features, wizard. Click Next.
+- 3 It will open Add Roles and Features, wizard. Click Next.
 </p>
 <br />
 
