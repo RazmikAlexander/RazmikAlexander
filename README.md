@@ -20,7 +20,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
+- Windows Server 2016
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
@@ -82,6 +82,89 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/0bpMsSX.jpg" height="80%" width="80%" alt=<>
 </p>
 <p>
+
+<p>
+- 10 After installing AD DS Role, you can promote this Server to a Domain Controller.
+</p>
+<img src="https://i.imgur.com/HlIrrJD.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 11 Select Add a new forest and give the Root domain name, ad.gpfs.net. Click Next.
+</p>
+<img src="https://i.imgur.com/IJ119YS.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 12 Enter the Directory Services Restore Mode password.
+</p>
+<img src="https://i.imgur.com/UcseLJ8.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 13 Ignore the warning message.
+</p>
+<img src="https://i.imgur.com/duRkaBK.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 14 Use the default NetBIOS domain name and click Next.
+</p>
+<img src="https://i.imgur.com/sRBiQKx.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 15 Use the default paths and click Next.
+</p>
+<img src="https://i.imgur.com/tg0C71m.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 16 Review and click Next if no errors.
+</p>
+<img src="https://i.imgur.com/F2GYCoU.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
+<p>
+- 17 Click Install and wait for the installation to finish.
+</p>
+<img src="https://i.imgur.com/uvVrjgf.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+- 18 The Domain Controller is now set up.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
