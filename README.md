@@ -34,7 +34,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 - 3 It will open Add Roles and Features, wizard. Click Next.
 </p>
-<img src="https://i.imgur.com/0DxMTxc.jpg" height="80%" width="80%" alt=<>
 </p>
 <br />
 
