@@ -76,6 +76,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
+<p>
+- 9 Installation process begins.
+</p>
+<img src="https://i.imgur.com/0bpMsSX.jpg" height="80%" width="80%" alt=<>
+</p>
+<p>
+
 
 
 
