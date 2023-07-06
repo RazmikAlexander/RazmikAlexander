@@ -44,14 +44,28 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - 4 Select the server from the server pool and click Next.
 </p>
 <img src="https://i.imgur.com/loqxzX2.jpg" height="80%" width="80%" alt=<>
-
 <br />
 
 <p>
 <img src="https://imgur.com/OL2ereO" height="80%" width="80%" alt=<>
 </p>
-<p>
 - 5 Click the Checkbox to select Active Directory Domain Services.
+<p>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
