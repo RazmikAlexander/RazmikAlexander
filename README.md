@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
   
-  - [Configuring Active Directory within Azure VMs](https://github.com/RazmikAlexander/RazmikAlexander/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/RazmikAlexander/RazmikAlexander)
   - <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
